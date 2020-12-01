@@ -1,0 +1,6 @@
+- Learn [[Git]]
+- Get good at taking notes
+- [[Learn to sandbox your ideas]]
+-  [[Don't underestimate the value of working on a legacy codebase]]
+-  [[Are Your Unit Tests Failing for the Expected Reasons]]
+-  
