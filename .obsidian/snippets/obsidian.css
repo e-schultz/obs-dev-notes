@@ -21,4 +21,6 @@ color: var(--text-accent) !important;
 
 /* remove the first heading*/
 /*.markdown-preview-view .markdown-embed-content>:first-child { display:none;}*/
-div.markdown-embed-content > div > div > div:nth-child(2) { display: none }
+div.markdown-embed-content > div > div > div:nth-child(2) > h1 { display: none }
+div.markdown-embed-content > div > div > div:nth-child(2) > h2 { display: none }
+div.markdown-embed-content > div > div > div:nth-child(2) > h3 { display: none }

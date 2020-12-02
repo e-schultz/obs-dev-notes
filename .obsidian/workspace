@@ -4,27 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "7c34ea6d9fd2bf34",
+        "id": "92c13eef308c4f62",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inbox/202012011754 When do we know enough to deliver a story.md",
+            "file": "_DRAFT/Vue Component Breakdown/_Building Vue Components.md",
             "mode": "source"
           },
           "pinned": true
-        }
+        },
+        "group": "d30726664a6839a0"
       },
       {
-        "id": "92c13eef308c4f62",
+        "id": "081437b54baeea6b",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_DRAFT/Vue Component Breakdown/_Building Vue Components.md",
+            "mode": "source"
+          },
+          "pinned": true
+        },
+        "group": "d30726664a6839a0"
+      },
+      {
+        "id": "925eb34e75e8c0b5",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "attachments/Figure 1 The dependencies using a simple creation in the lister class.md",
-            "mode": "source"
+            "file": "_DRAFT/Vue Component Breakdown/Multi-Root Components.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "48aa890315420244",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_DRAFT/Vue Component Breakdown/Vue Single File Components.md",
+            "mode": "preview"
           }
         }
       }
@@ -53,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#git",
+                "query": "tag:#DRAFT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/Figure 1 The dependencies using a simple creation in the lister class.md",
+                "file": "_DRAFT/Vue Component Breakdown/Multi-Root Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/Figure 1 The dependencies using a simple creation in the lister class.md"
+                "file": "_DRAFT/Vue Component Breakdown/Multi-Root Components.md"
               }
             }
           }
@@ -123,18 +149,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "article notes/Figure 1 The dependencies using a simple creation in the lister class.md",
-    "article notes/Figure 2 The dependencies for a Dependency Injector.md",
-    "article notes/Figure 3 The dependencies for a Service Locator.md",
-    "daily notes/Git.md",
-    "inbox/Kaldi.md",
-    "inbox/Spike.md",
-    "Resources/sources/ready for delivery.md",
-    "daily notes/2020-12-01.md",
-    "programming/glossary/Athena.md",
-    "Resources/sources/AWS CloudFormation - Learn Template Basics.md"
+    "_DRAFT/Vue Component Breakdown/Multi-Root Components.md",
+    "_DRAFT/Vue Component Breakdown/_Building Vue Components.md",
+    "_DRAFT/Vue Component Breakdown/Vue Single File Components.md",
+    "inbox/Data Scientist.md",
+    "inbox/Data Engineer.md",
+    "_DRAFT/Data Eng Post/What is a Data Engineer.md",
+    "_DRAFT/Data Eng Post/My understanding of Data Engineer vs Industry definition of Data Engineer.md",
+    "_DRAFT/Data Eng Post/Do me and my Manager share the same expectations.md",
+    "daily notes/2020-12-02_.md",
+    "daily notes/2020-11-26.md"
   ]
 }
