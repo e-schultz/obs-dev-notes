@@ -1,3 +1,6 @@
+---
+aliases: User Story
+---
 # What is a User Story?
 
 The goal of a user story, is to be able to deliver something of value to the user. 

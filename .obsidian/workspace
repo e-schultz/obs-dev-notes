@@ -4,79 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "fd461e2ea4055c9d",
-        "type": "split",
-        "children": [
-          {
-            "id": "857f0dcd265741ff",
-            "type": "split",
-            "dimension": 50,
-            "children": [
-              {
-                "id": "7c34ea6d9fd2bf34",
-                "type": "leaf",
-                "active": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Resources/sources/ready for delivery.md",
-                    "mode": "source"
-                  }
-                },
-                "group": "8f781ff4ba1a410a"
-              },
-              {
-                "id": "ca92154adf179d68",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Resources/sources/ready for delivery.md",
-                    "options": {
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "centerStrength": 0.877881566543834,
-                      "repelStrength": 16.5738280915246,
-                      "linkStrength": 0.483160510754992,
-                      "linkDistance": 500,
-                      "scale": 1.0881422643088579
-                    }
-                  }
-                },
-                "group": "8f781ff4ba1a410a"
-              }
-            ],
-            "direction": "vertical"
+        "id": "7c34ea6d9fd2bf34",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "inbox/202012011754 When do we know enough to deliver a story.md",
+            "mode": "source"
           },
-          {
-            "id": "800dfb37a29d4eb6",
-            "type": "leaf",
-            "dimension": 50,
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Resources/sources/ready for delivery.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            },
-            "group": "8f781ff4ba1a410a"
+          "pinned": true
+        }
+      },
+      {
+        "id": "92c13eef308c4f62",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "attachments/Figure 1 The dependencies using a simple creation in the lister class.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -140,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/sources/ready for delivery.md",
+                "file": "attachments/Figure 1 The dependencies using a simple creation in the lister class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/sources/ready for delivery.md"
+                "file": "attachments/Figure 1 The dependencies using a simple creation in the lister class.md"
               }
             }
           }
@@ -173,19 +123,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "Resources/sources/ready for delivery.md",
-    "inbox/z-backlog refinement.md",
-    "inbox/Z-User Story.md",
-    "daily notes/2020-11-30.md",
-    "inbox/202011301803 Ticket Types and Sizing.md",
+    "article notes/Figure 1 The dependencies using a simple creation in the lister class.md",
+    "article notes/Figure 2 The dependencies for a Dependency Injector.md",
+    "article notes/Figure 3 The dependencies for a Service Locator.md",
+    "daily notes/Git.md",
+    "inbox/Kaldi.md",
     "inbox/Spike.md",
+    "Resources/sources/ready for delivery.md",
     "daily notes/2020-12-01.md",
-    "programming/glossary/CloudFormation.md",
-    "Resources/sources/AWS Cloud Formation - Learn Template Basics.md",
-    "programming/glossary/CFT.md"
+    "programming/glossary/Athena.md",
+    "Resources/sources/AWS CloudFormation - Learn Template Basics.md"
   ]
 }

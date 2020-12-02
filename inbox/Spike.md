@@ -3,29 +3,22 @@
 
 When we are building software, we are trying to solve a problem - and deliver value to our end user.
 
-Ideally, when we are working on a story - it's well defined enough that when we go to start it, that we know enough to be able to execute the story.
+Ideally, when we are working on a story - it's well defined enough that when we go to start it, that we know enough to be able to execute the [[Z-User Story|user story]]
 
 However, sometimes we may not know enough to be able to execute the story - and need to do some research to better define the what, and or how of approaching something.
 
-# We know enough to deliver the [[Z-User Story|story]].
+## [[202012011754 When do we know enough to deliver a story|When do we know enough to deliver a User Story]]
 
-- the general design
-- the expected functionality
-- how much effort it's going to take to build it
-- how it's going to be tested 
-- no technical unknowns
-- etc
+![[202012011754 When do we know enough to deliver a story#When we know enough to deliver the Z-User Story story]]
 
-It's the product that we build and ship.
-
-# We don't know enough to deliver the story
+## We don't know enough to deliver the story
 
 But, along the way - we run into problems that we don't know how to execute on yet. 
 
 We might have a general idea of what we are trying to build - but may need to do some investigation, or we might know what we need to build - but are unsure of how we are going to approach it.
 
 
-## Do we know enough to know __what__ we have to deliver?
+### Do we know enough to know __what__ we have to deliver?
 
 We might have a general idea of what we are trying to solve - but it might require some more research, user research, to better define the "what" a bit better. 
 
@@ -36,12 +29,13 @@ This could include proof of concepts that we demo to get feedback on, but that w
 They are a high-def proof of concept - and can help inform the stories, and effort into building it.
 
 
-## Do we know enough to know __how__ we are going to deliver?
+### Do we know enough to know __how__ we are going to deliver?
 
 Even if we can answer the "what" of what we are trying to build, there are still times when there are unknown's around the how.
 
 Some examples, but not limited to:
 
+#### Possible [[z-delivery blockers|Delivery Blockers]]
 ![[z-delivery blockers#Possible Delivery Blockers]]
 
 The goal of the spike should be to figure out how to deliver the thing. 

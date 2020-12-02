@@ -21,3 +21,11 @@ color: var(--text-accent) !important;
 
 /* remove the first heading*/
 /*.markdown-preview-view .markdown-embed-content>:first-child { display:none;}*/
+
+
+/*.markdown-preview-view div.markdown-embed-content > div > div > div:nth-child(3) > h1 { display: none; }
+.markdown-preview-view div.markdown-embed-content > div > div > div:nth-child(3) > h2 { display: none; }
+.markdown-preview-view div.markdown-embed-content > div > div > div:nth-child(3) > h3 { display: none; }*/
+.internal-embed > .markdown-embed > div h1 { display: none;}
+.internal-embed > .markdown-embed > div h2 { display: none;}
+.internal-embed > .markdown-embed > div h3 { display: none;}
