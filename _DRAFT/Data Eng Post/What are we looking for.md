@@ -1,5 +1,5 @@
 ---
-tags: ["#DRAFT"]
+tags: ["#draft"]
 ---
 
 This was easy-ish to get started with, 

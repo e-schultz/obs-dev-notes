@@ -1,6 +1,6 @@
 ---
-aliases: Data Engineering
-tags: ["#DRAFT"]
+aliases: Data Engineering, Data Engineers
+tags: ["#draft"]
 ---
 
 - [[What is a Data Engineer]]?

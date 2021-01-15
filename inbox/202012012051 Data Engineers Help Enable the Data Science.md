@@ -1,5 +1,6 @@
 ---
-tags: ["#DRAFT"]
+tags: ["#draft"]
+aliases: How do Data Engineers relate to Data Scientists?
 ---
 
 # How Data Engineers relate to [[Data Scientist|Data Scientists]]
@@ -10,9 +11,12 @@ A key responsibility of a data engineer, is the "ability to design, build, and m
 
 Without having these data warehouses, other activities related to data science becomes too expensive or difficult to scale.
 
+[[Data Engineer|Data Engineers]] make Data Scientists more productive [^3], by building solutions that prepare data that is ready for analysis, and for use by other consumers of data.
+
 
 
 [^1]: [[S- 2017 - The Rise of The Data Engineer]]
 [^2]: [[S- 2018 A Beginner’s Guide to Data Engineering — Part I]]
+[^3]: [[S- 2020 - POST - dremio What Is Data Engineering - dremio2020#^e61cff|Dremio - What Is Data Engineering?]]
 
 

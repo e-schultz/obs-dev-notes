@@ -1,5 +1,5 @@
 ---
-tags: ["#DRAFT"]
+tags: ["#draft"]
 ---
 # What is a Data Engineer
 
@@ -19,7 +19,7 @@ I've worked in the tech industry for a long time, and had a pretty good sense of
 
 # Resources
 
-- [The Rise of the Data Engineer](https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/)
+- [The Rise of the Data Engineer](https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/) 
 - [Why Robinhood uses Airflow](https://robinhood.engineering/why-robinhood-uses-airflow-aed13a9a90c8)
 - [Josh Wills Keynote at DataEngConf SF16](https://www.youtube.com/watch?v=EtYv7zPyS2A)
 - [Dataquest - What is a Data Engineer?](https://www.dataquest.io/blog/what-is-a-data-engineer/)

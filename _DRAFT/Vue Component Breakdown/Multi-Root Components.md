@@ -31,9 +31,9 @@ This is because there is no root container to wrap the two `span` tags.
 
 # How
 
-#TODO #tk 
+- [[Z-Multi Root Example]]
 
-- Use Vue Functional Components
+- Use [[Vue Functional Components]]
 - Implement your own `render` method
 - Can use JSX if you want
 

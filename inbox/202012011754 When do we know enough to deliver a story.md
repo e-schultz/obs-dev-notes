@@ -1,5 +1,6 @@
 ---
-tags: ["#DRAFT"]
+tags: ["#draft"]
+aliases: When do we know enough to deliver a story
 ---
 
 # When we know enough to deliver the [[Z-User Story|story]].

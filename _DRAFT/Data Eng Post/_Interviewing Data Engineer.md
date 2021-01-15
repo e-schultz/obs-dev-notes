@@ -1,5 +1,5 @@
 ---
-tags: ["#DRAFT"]
+tags: ["#draft"]
 ---
 # Interviewing Data Engineer
 

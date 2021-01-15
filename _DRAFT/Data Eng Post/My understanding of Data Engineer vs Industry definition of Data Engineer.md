@@ -1,5 +1,5 @@
 ---
-tags: ["#DRAFT"]
+tags: ["#draft"]
 ---
 
 I've worked in tech for over a decade, my most recent experience had been five years at Rangle, focused on full stack Java Script, and more on the Software Engineering side.

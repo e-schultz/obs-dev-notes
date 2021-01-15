@@ -11,4 +11,4 @@
 >
 Themes are large focus areas that span the organization.
 >
->![[Pasted image 20201130181048.png]]
+>![[epics stories themes and initiatives Pasted image 20201130181048.png]]

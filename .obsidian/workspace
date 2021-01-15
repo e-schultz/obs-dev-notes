@@ -4,53 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "92c13eef308c4f62",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_DRAFT/Vue Component Breakdown/_Building Vue Components.md",
-            "mode": "source"
-          },
-          "pinned": true
-        },
-        "group": "d30726664a6839a0"
-      },
-      {
-        "id": "081437b54baeea6b",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_DRAFT/Vue Component Breakdown/_Building Vue Components.md",
-            "mode": "source"
-          },
-          "pinned": true
-        },
-        "group": "d30726664a6839a0"
-      },
-      {
-        "id": "925eb34e75e8c0b5",
+        "id": "b44591998effb838",
         "type": "leaf",
         "active": true,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_DRAFT/Vue Component Breakdown/Multi-Root Components.md",
-            "mode": "preview"
-          }
+            "file": "daily notes/2021-01-13.md",
+            "mode": "source"
+          },
+          "pinned": true
         }
       },
       {
-        "id": "48aa890315420244",
+        "id": "27f67fd364bab932",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_DRAFT/Vue Component Breakdown/Vue Single File Components.md",
-            "mode": "preview"
+            "file": "daily notes/2021-01-14.md",
+            "mode": "source"
           }
         }
       }
@@ -79,12 +53,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DRAFT",
-                "matchingCase": false,
+                "query": "tag:#draft",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -96,11 +70,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 308.5036334991455
+    "width": 305,
+    "collapsed": true
   },
   "right": {
     "id": "086f0fa3e4c6c086",
@@ -116,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_DRAFT/Vue Component Breakdown/Multi-Root Components.md",
+                "file": "daily notes/2021-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +107,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
@@ -141,27 +118,35 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_DRAFT/Vue Component Breakdown/Multi-Root Components.md"
+                "file": "daily notes/2021-01-13.md"
               }
             }
+          },
+          {
+            "id": "4bd297879f68728c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 410.953125
   },
   "lastOpenFiles": [
-    "_DRAFT/Vue Component Breakdown/Multi-Root Components.md",
-    "_DRAFT/Vue Component Breakdown/_Building Vue Components.md",
-    "_DRAFT/Vue Component Breakdown/Vue Single File Components.md",
-    "inbox/Data Scientist.md",
-    "inbox/Data Engineer.md",
-    "_DRAFT/Data Eng Post/What is a Data Engineer.md",
-    "_DRAFT/Data Eng Post/My understanding of Data Engineer vs Industry definition of Data Engineer.md",
-    "_DRAFT/Data Eng Post/Do me and my Manager share the same expectations.md",
-    "daily notes/2020-12-02_.md",
-    "daily notes/2020-11-26.md"
+    "daily notes/2021-01-13.md",
+    "daily notes/2021-01-14.md",
+    "inbox/202012012051 Data Engineers Help Enable the Data Science.md",
+    "inbox/202101131821 What would I change about my answer for Suggestions for Managers.md",
+    "inbox/202101131941 Fitting in vs Belonging.md",
+    "_DRAFT/Vue Component Breakdown/Z-Multi Root Example.md",
+    "_DRAFT/Vue Component Breakdown/Vue Functional Components.md",
+    "daily notes/_DAILY NOTES.md",
+    "daily notes/2020-11-26.md",
+    "daily notes/2020-11-28.md"
   ]
 }

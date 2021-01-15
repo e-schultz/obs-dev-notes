@@ -1,5 +1,8 @@
+---
+tags: ["#draft", "#scrum"]
+---
 # So, initial rough thoughts on Ticket Types & Sizing 
-#DRAFT
+
 ## Why Have Ticket Types?
 
 It helps us organize things into groups around a common goal, and also helps inform us on how much detail to go into.
@@ -13,9 +16,7 @@ It helps us organize things into groups around a common goal, and also helps inf
 # Ticket Types
 
 - Epic - Larger project or feature, that can be broken down into smaller user stories. 
-
-
-- [[Z-User Story]]
+- [[Z-User Story|User Story]]
 - Task
 - Subtasks
 - Bug
