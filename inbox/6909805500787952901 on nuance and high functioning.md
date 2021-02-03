@@ -1,0 +1,1 @@
+#tiktok/justEvan  [stitch on nuance and why high functioning needs to fuck off](https://www.tiktok.com/@evan.just.ev4n/video/6909805500787952901)

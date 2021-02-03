@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b44591998effb838",
-        "type": "leaf",
-        "active": true,
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "daily notes/2021-01-13.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
         "id": "27f67fd364bab932",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily notes/2021-01-14.md",
+            "file": "_DRAFT/Not A Robot/wall of zoom are sensory hell.md",
             "mode": "source"
           }
         }
@@ -53,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#draft",
+                "query": "tag:#neurodiverse",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,13 +57,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 305,
-    "collapsed": true
+    "width": 305
   },
   "right": {
     "id": "086f0fa3e4c6c086",
@@ -92,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily notes/2021-01-13.md",
+                "file": "_DRAFT/Not A Robot/wall of zoom are sensory hell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2021-01-13.md"
+                "file": "_DRAFT/Not A Robot/wall of zoom are sensory hell.md"
               }
             }
           },
@@ -130,23 +115,22 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 410.953125
   },
   "lastOpenFiles": [
-    "daily notes/2021-01-13.md",
-    "daily notes/2021-01-14.md",
-    "inbox/202012012051 Data Engineers Help Enable the Data Science.md",
-    "inbox/202101131821 What would I change about my answer for Suggestions for Managers.md",
-    "inbox/202101131941 Fitting in vs Belonging.md",
-    "_DRAFT/Vue Component Breakdown/Z-Multi Root Example.md",
-    "_DRAFT/Vue Component Breakdown/Vue Functional Components.md",
-    "daily notes/_DAILY NOTES.md",
-    "daily notes/2020-11-26.md",
-    "daily notes/2020-11-28.md"
+    "_DRAFT/Not A Robot/wall of zoom are sensory hell.md",
+    "_DRAFT/Not A Robot/EVAN_SCHULTZ README.md",
+    "_DRAFT/Not A Robot/my first real program.md",
+    "_DRAFT/Not A Robot/What does it take to scale to 100 engineers.md",
+    "_DRAFT/Not A Robot/possibly autistic.md",
+    "_DRAFT/Not A Robot/PartnerStack.md",
+    "_DRAFT/Data Eng Post/S- 2017 - The Rise of The Data Engineer.md",
+    "_DRAFT/Data Eng Post/Data Engineer vs Data Scientist.md",
+    "_DRAFT/Data Eng Post/My understanding of Data Engineer vs Industry definition of Data Engineer.md",
+    "_DRAFT/Data Eng Post/Who will they be working with.md"
   ]
 }
